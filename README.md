@@ -1,2 +1,3 @@
 # Four-card-feature-section
-CSS Grid
+![Four card feature section](/images/preview.png 'Four card feature section')
+[LIVE PREVIEW]
